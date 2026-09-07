@@ -1,0 +1,25 @@
+INFO:     Started server process [222200]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8090 (Press CTRL+C to quit)
+==========================================================
+  沉浸视界 · 个人网站已启动
+  请在浏览器打开:  http://127.0.0.1:8090
+  Ctrl+C 停止服务
+==========================================================
+INFO:     127.0.0.1:56477 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56479 - "POST /api/admin/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53804 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:53804 - "GET /js/app.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60584 - "GET /css/style.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60584 - "GET /js/scene.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60584 - "GET /js/vendor/three.module.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60584 - "GET /data/profile.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53845 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53845 - "GET /css/style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65515 - "GET /js/app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65515 - "GET /js/scene.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65515 - "GET /js/vendor/three.module.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65515 - "GET /data/profile.json HTTP/1.1" 200 OK
